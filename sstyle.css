@@ -1,0 +1,50 @@
+img {
+    border-radius: 8px;
+}
+  h1{
+    color: red;
+}
+#title{
+    color: blue;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+div{ 
+    border: 5px solid black;
+    margin-top: 30px;
+padding-left: 50px;
+ }
+ img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+div {
+     background-color: bisque;
+}
+li {
+    text-decoration: underline;
+  }
+  li {
+    display: inline;
+  }
+  h2 {
+    text-decoration: overline;
+    text-decoration-color: blueviolet;
+  }
+  h1 {
+    text-decoration-line: overline underline;
+    text-decoration-color: hwb(302 0% 0%);  
+  }
+  h2{
+    color: palevioletred;
+  }
+  h6{
+    color: olivedrab;
+  }
+  p{
+    color: lightcoral;
+  }
